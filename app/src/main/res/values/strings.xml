@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StateData</string>
+    <string name="log_facebook">Log in with Facebook</string>
+    <string name="log_email">Log in with email address</string>
+    <string name="welcome">Welcome to\nReady To Travel</string>
+    <string name="welcome_description">Sign Up with Facebook for the most\nfulfilling trip planning experience with us!</string>
+    <string name="backgroundImage">BackgroundImage</string>
+    <string name="cloudImage">CloudImage</string>
+    <string name="create_acc">Create a new account</string>
+    <string name="backArrow">BackArrow</string>
+    <string name="almost_there">Almost there!</string>
+    <string name="create_description">Complete the from below to create\nyour Ready To Travel account</string>
+    <string name="mandtory">*Mandtory</string>
+    <string name="first_name">First Name*</string>
+    <string name="lastname">LastName*</string>
+    <string name="email_address">Email Address*</string>
+    <string name="date_of_birth">Date of Birth*</string>
+    <string name="nationality">Nationality*</string>
+    <string name="country_of_residence">Country of Residence*</string>
+    <string name="mobile_no">Mobile no.(Optional)</string>
+    <string name="create_acc_now">Create my account now</string>
+    <string name="guitar">Guitar</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="email">Email</string>
+    <string name="last_name">LastName</string>
+    <string name="firstname">FirstName</string>
+</resources>
